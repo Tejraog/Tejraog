@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tejraog
+- 👀 I’m interested in SQL
+- 🌱 I’m currently learning SQL
+- 💞️ I’m looking to collaborate on SQL
